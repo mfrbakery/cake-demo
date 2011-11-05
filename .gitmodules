@@ -1,3 +1,6 @@
 [submodule "app/plugins/pjax"]
 	path = app/plugins/pjax
 	url = git@github.com:sanojimaru/cakephp-pjax-plugin.git
+[submodule "app/Plugin/Pjax"]
+	path = app/Plugin/Pjax
+	url = git@github.com:sanojimaru/CakePjax.git
