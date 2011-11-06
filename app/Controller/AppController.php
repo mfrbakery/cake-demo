@@ -5,7 +5,13 @@ App::uses('AppController', 'Controller');
  */
 class AppController extends Controller {
 
-  public $helpers = array('Pjax.Pjax', 'Html', 'Form', 'Session');
+  public $helpers = array(
+    'Pjax.Pjax',
+    'MarkItUp.MarkItUp',
+    'Html',
+    'Form',
+    'Session',
+  );
 
   public $components = array('Pjax.Pjax', 'Session');
 

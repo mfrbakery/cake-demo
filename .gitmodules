@@ -4,3 +4,6 @@
 [submodule "app/Plugin/Pjax"]
 	path = app/Plugin/Pjax
 	url = git@github.com:sanojimaru/CakePjax.git
+[submodule "app/Plugin/MarkItUp"]
+	path = app/Plugin/MarkItUp
+	url = git@github.com:sanojimaru/CakeMarkItUp.git
